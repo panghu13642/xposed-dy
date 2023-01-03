@@ -10,7 +10,7 @@
 ### 项目介绍
 * 目标版本：dy 15.3.0
 - app
-  - aidl，跨进程大文本传输
+  - aidl，跨进程调用、大文本传输
   - java
     - component，界面组件
     - floatwindow，dy爬虫控制悬浮窗
